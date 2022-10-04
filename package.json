@@ -1,0 +1,23 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "this assignment is the third week, of the angular course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduleon78/assingnment3-angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduleon78/assingnment3-angular/issues"
+  },
+  "homepage": "https://github.com/eduleon78/assingnment3-angular#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
